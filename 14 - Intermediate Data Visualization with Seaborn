@@ -1,0 +1,97 @@
+                            //^//^//^//^//^//^//^//^//^ Seaborn Introduction ^\\^\\^\\^\\^\\^\\^\\^\\^\\
+                            
+Reading a csv file
+--------------------------------------------------
+# import all modules
+import pandas as pd
+import seaborn as sb
+import matplotlib.pyplot as plt
+
+# Read in the DataFrame
+df = pd.read_csv(grant_file)
+
+
+Comparing a histogram and displot
+ --------------------------------------------------
+# Display pandas histogram
+df['Award_Amount'].plot.hist()
+plt.show()
+
+# Clear out the pandas histogram
+plt.clf()
+---------
+# Display a Seaborn distplot
+sns.displot(df['Award_Amount'])
+plt.show()
+
+# Clear the distplot
+plt.clf()
+
+
+Plot a histogram
+ --------------------------------------------------
+ # Create a distplot
+sns.displot(df['Award_Amount'],
+             kde=False,
+             bins=20)
+
+# Display the plot
+plt.show()
+
+
+Rug plot and kde shading
+ --------------------------------------------------
+ # Create a distplot of the Award Amount
+sns.displot(df['Award_Amount'],kind = 'kde', fill = True,
+             rug=True)
+
+# Plot the results
+plt.show()
+
+
+Create a regression plot
+ --------------------------------------------------
+ # Create a regression plot of premiums vs. insurance_losses
+sns.regplot(x="insurance_losses", y="premiums", data=df)
+
+
+# Display the plot
+plt.show()
+---------
+# Create an lmplot of premiums vs. insurance_losses
+sns.lmplot(x="insurance_losses", y="premiums", data=df)
+
+
+
+# Display the second plot
+plt.show()
+
+
+
+Plotting multiple variables
+ --------------------------------------------------
+# Create a regression plot using hue
+sns.lmplot(data=df,
+           x="insurance_losses",
+           y="premiums",
+           hue="Region")
+
+# Show the results
+plt.show()
+
+
+Facetting multiple regressions
+ --------------------------------------------------
+ # Create a regression plot with multiple rows
+sns.lmplot(data=df,
+           x="insurance_losses",
+           y="premiums",
+           hue="Region",row='Region')
+
+# Show the plot
+plt.show()
+
+
+                            //^//^//^//^//^//^//^//^//^ Customizing Seaborn Plots ^\\^\\^\\^\\^\\^\\^\\^\\^\\
+                            //^//^//^//^//^//^//^//^//^ Additional Plot Types ^\\^\\^\\^\\^\\^\\^\\^\\^\\
+                            //^//^//^//^//^//^//^//^//^ Creating Plots on Data Aware Grids ^\\^\\^\\^\\^\\^\\^\\^\\^\\
