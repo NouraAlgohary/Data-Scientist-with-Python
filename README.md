@@ -23,6 +23,9 @@
 
 
 ## 03 - Investigating Netflix Movies and Guest Stars in The Office 
+
+[**03 - About the project**](https://app.datacamp.com/learn/projects/entertainment-data/guided/Python)
+
 [**Project notebook**](https://app.datacamp.com/workspace/w/01f43590-0898-46b1-a48e-ea768c85c8cb/edit)
 
 ## 04 - Data Manipulation with pandas
@@ -51,7 +54,7 @@
 
 ## 07 - The GitHub History of the Scala Language
 
-[**07 - Project**](https://app.datacamp.com/learn/projects/163)
+[**07 - About the project**](https://app.datacamp.com/learn/projects/163)
 
 ## 08 - Introduction to Data Visualization with Matplotlib
 1. Introduction to Matplotlib
@@ -86,7 +89,7 @@
 
 ## 12 - The Android App Market on Google Play
 
-[**12 - About the Project**](https://app.datacamp.com/learn/projects/android-app-market/guided/Python)
+[**12 - About the project**](https://app.datacamp.com/learn/projects/android-app-market/guided/Python)
 
 ## 13 - Python Data Science Toolbox (Part 2)
 1. Using iterators in PythonLand
