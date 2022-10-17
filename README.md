@@ -36,6 +36,8 @@
 
 [**04 - Course**](https://app.datacamp.com/learn/courses/data-manipulation-with-pandas)
 
+[**04 - Assignments**](https://github.com/NouraAlgohary/Data-Scientist-with-Python/blob/main/04%20-%20Data%20Manipulation%20with%20pandas)
+
 ## 05 - Joining Data with pandas
 1. Data Merging Basics
 2. Merging Tables With Different Join Types
