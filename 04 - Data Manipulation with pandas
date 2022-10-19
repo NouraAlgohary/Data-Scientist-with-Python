@@ -214,9 +214,6 @@ sales_1_1['cum_max_sales'] = sales_1_1['weekly_sales'].cummax()
 print(sales_1_1[["date", "weekly_sales", "cum_weekly_sales", "cum_max_sales"]])
 
 
-                                        ~`~`~`~`~`~`~`~`~`~`~`~` Slicing and Indexing DataFrames `~`~`~`~`~`~`~`~`~`~`~`~
-                                        
-                                        
 ___________________________________________________________________
 Dropping duplicates
 ___________________________________________________________________
@@ -342,4 +339,6 @@ print(sales.pivot_table(values='weekly_sales', index='department', columns='type
 print(sales.pivot_table(values="weekly_sales", index="department", columns="type", fill_value=0, margins=True))
 
 
+                                        ~`~`~`~`~`~`~`~`~`~`~`~` Slicing and Indexing DataFrames `~`~`~`~`~`~`~`~`~`~`~`~
+                                        
                                       ~`~`~`~`~`~`~`~`~`~`~`~` Creating and Visualizing DataFrames `~`~`~`~`~`~`~`~`~`~`~`~
