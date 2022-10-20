@@ -38,6 +38,9 @@
 
 [**04 - Assignments**](https://github.com/NouraAlgohary/Data-Scientist-with-Python/blob/main/04%20-%20Data%20Manipulation%20with%20pandas)
 
+![2022-10-17 (3)](https://user-images.githubusercontent.com/103903785/196982779-15344365-0468-49e9-9b06-dad95fb8bc46.png)
+
+
 ## 05 - Joining Data with pandas
 1. Data Merging Basics
 2. Merging Tables With Different Join Types
@@ -107,4 +110,4 @@
 4. Creating Plots on Data Aware Grids
 
 [**14 - Assignments**](https://github.com/NouraAlgohary/Data-Scientist-with-Python/blob/main/14%20-%20Intermediate%20Data%20Visualization%20with%20Seaborn)
-![2022-10-16 (1)](https://user-images.githubusercontent.com/103903785/196046226-db46ea25-9085-4782-b489-42611330fd7a.png)
+![2022-10-16 (2)](https://user-images.githubusercontent.com/103903785/196982932-d386cdeb-e530-48bf-bd2b-1b00d396ec88.png)
