@@ -49,6 +49,8 @@
 
 [**05 - Course**](https://app.datacamp.com/learn/courses/joining-data-with-pandas)
 
+[**05 - Assignments**](https://github.com/NouraAlgohary/Data-Scientist-with-Python/tree/main/05%20-%20Joining%20Data%20with%20pandas)
+
 ## 06 - Introduction to Statistics in Python
 1. Summary Statistics
 2. Random Numbers and Probability
