@@ -38,7 +38,7 @@
 
 [**04 - Assignments**](https://github.com/NouraAlgohary/Data-Scientist-with-Python/blob/main/04%20-%20Data%20Manipulation%20with%20pandas)
 
-![2022-10-17 (3)](https://user-images.githubusercontent.com/103903785/196982779-15344365-0468-49e9-9b06-dad95fb8bc46.png)
+![C4](https://user-images.githubusercontent.com/103903785/199074293-4c998866-59c6-4cc3-b7e1-e9e95356c045.png)
 
 
 ## 05 - Joining Data with pandas
@@ -58,6 +58,11 @@
 4. Correlation and Experimental Design
 
 [**06 - Course**](https://app.datacamp.com/learn/courses/introduction-to-statistics-in-python)
+
+[**06 - Assignments**](https://github.com/NouraAlgohary/Data-Scientist-with-Python/tree/main/06%20-%20Introduction%20to%20Statistics%20in%20Python)
+
+![C6](https://user-images.githubusercontent.com/103903785/199073580-1c27a723-9a4f-45a7-84e6-3612683d8dbf.png)
+
 
 ## 07 - The GitHub History of the Scala Language
 
@@ -112,4 +117,6 @@
 4. Creating Plots on Data Aware Grids
 
 [**14 - Assignments**](https://github.com/NouraAlgohary/Data-Scientist-with-Python/blob/main/14%20-%20Intermediate%20Data%20Visualization%20with%20Seaborn)
-![2022-10-16 (2)](https://user-images.githubusercontent.com/103903785/196982932-d386cdeb-e530-48bf-bd2b-1b00d396ec88.png)
+
+![C14](https://user-images.githubusercontent.com/103903785/199074660-dcd8968a-9640-45ee-bb57-7c4347355062.png)
+
