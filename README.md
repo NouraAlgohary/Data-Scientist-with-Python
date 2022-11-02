@@ -68,6 +68,8 @@
 
 [**07 - About the project**](https://app.datacamp.com/learn/projects/163)
 
+[**Project notebook**](https://app.datacamp.com/workspace/w/7c527d97-1156-4947-9633-af2cb3d2bf34/edit)
+
 ## 08 - Introduction to Data Visualization with Matplotlib
 1. Introduction to Matplotlib
 2. Plotting time-series
