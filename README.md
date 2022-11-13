@@ -78,6 +78,8 @@
 
 [**08 - Course**](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-matplotlib)
 
+[**08 - Assignments**](https://github.com/NouraAlgohary/Data-Scientist-with-Python/tree/main/08%20-%20Introduction%20to%20data%20visualization%20with%20Matplotlib)
+
 ## 09 - Introduction to Data Visualization with Seaborn
 1. Introduction to Seaborn
 2. Visualizing Two Quantitative Variables
