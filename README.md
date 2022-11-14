@@ -1,5 +1,7 @@
 # Data-Scientist-with-Python
 
+[**Data Camp Track**](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python)
+
 ## 01 - Introduction to Python
 1. Python Basics
 2. Python Lists
