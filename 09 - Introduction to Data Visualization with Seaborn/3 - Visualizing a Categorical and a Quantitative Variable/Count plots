@@ -1,0 +1,15 @@
+# Create count plot of inter
+sns.catplot(x='Internet usage', data=survey_data, kind='count')
+
+# Change the orientation of the plot
+sns.catplot(y="Internet usage", data=survey_data,
+            kind='count')
+            
+            
+# Create column subplots based on age category
+sns.catplot(y="Internet usage", 
+data=survey_data,col='Age Category',
+            kind="count")
+
+# Show plot
+plt.show()
