@@ -1,0 +1,8 @@
+# Print the data type of sudoku_game
+print(sudoku_game.dtype)
+
+# Change the data type of sudoku_game to int8
+small_sudoku_game = sudoku_game.astype(np.int8)
+
+# Print the data type of small_sudoku_game
+print(small_sudoku_game.dtype)
