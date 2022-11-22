@@ -90,6 +90,8 @@
 
 [**09 - Course**](https://app.datacamp.com/learn/courses/introduction-to-data-visualization-with-seaborn)
 
+[**09 - Assignments**](https://github.com/NouraAlgohary/Data-Scientist-with-Python/tree/main/09%20-%20Introduction%20to%20Data%20Visualization%20with%20Seaborn)
+
 ## 10 - Introduction to NumPy
 1. Understanding NumPy Arrays
 2. Selecting and Updating Data
