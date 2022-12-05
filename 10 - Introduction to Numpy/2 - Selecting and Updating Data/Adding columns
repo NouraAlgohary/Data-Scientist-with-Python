@@ -1,0 +1,9 @@
+# Print the shapes of tree_census and trunk_stump_diameters
+print(trunk_stump_diameters.shape, tree_census.shape)
+
+# Reshape trunk_stump_diameters
+reshaped_diameters = trunk_stump_diameters.reshape((1000, 1))
+
+# Concatenate reshaped_diameters to tree_census as the last column
+concatenated_tree_census = np.concatenate((tree_census, reshaped_diameters), axis=1)
+print(concatenated_tree_census)
