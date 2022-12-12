@@ -1,0 +1,7 @@
+# Create a 2D array of total monthly sales across industries
+monthly_industry_sales = monthly_sales.sum(axis=1, keepdims=True)
+print(monthly_industry_sales)
+
+# Add this column as the last column in monthly_sales
+monthly_sales_with_total = np.concatenate((monthly_sales, monthly_industry_sales), axis=1)
+print(monthly_sales_with_total)
