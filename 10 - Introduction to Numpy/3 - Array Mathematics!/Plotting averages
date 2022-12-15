@@ -1,0 +1,11 @@
+# Create the 1D array avg_monthly_sales
+avg_monthly_sales = monthly_sales.mean(axis=1)
+print(avg_monthly_sales)
+
+# Plot avg_monthly_sales by month
+plt.plot(np.arange(1, 13), avg_monthly_sales, label="Average sales across industries")
+
+# Plot department store sales by month
+plt.plot(np.arange(1, 13), monthly_sales[:, 2], label="Department store sales")
+plt.legend()
+plt.show()
