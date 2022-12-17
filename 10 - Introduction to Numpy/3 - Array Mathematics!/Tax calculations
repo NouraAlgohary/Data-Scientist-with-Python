@@ -1,0 +1,7 @@
+# Create an array of tax collected by industry and month
+tax_collected = monthly_sales * 0.05
+print(tax_collected)
+
+# Create an array of sales revenue plus tax collected by industry and month
+total_tax_and_revenue = monthly_sales + tax_collected
+print(total_tax_and_revenue)
