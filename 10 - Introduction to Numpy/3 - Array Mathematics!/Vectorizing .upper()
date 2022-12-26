@@ -1,0 +1,6 @@
+# Vectorize the .upper() string method
+vectorized_upper = np.vectorize(str.upper)
+
+# Apply vectorized_upper to the names array
+uppercase_names = vectorized_upper(names)
+print(uppercase_names)
