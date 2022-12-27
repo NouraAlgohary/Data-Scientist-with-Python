@@ -1,0 +1,8 @@
+# Convert monthly_growth_rate into a NumPy array
+monthly_growth_1D = np.array(monthly_growth_rate)
+
+# Reshape monthly_growth_1D
+monthly_growth_2D = monthly_growth_1D.reshape((-1,1))
+
+# Multiply each column in monthly_sales by monthly_growth_2D
+print(monthly_growth_2D * monthly_sales)
