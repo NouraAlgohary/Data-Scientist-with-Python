@@ -1,0 +1,6 @@
+# Load the mystery_image.npy file 
+with open("mystery_image.npy", "wb") as f:
+    np.save(f, rgb_array)
+
+plt.imshow(rgb_array)
+plt.show()
