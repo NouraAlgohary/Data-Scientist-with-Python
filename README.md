@@ -100,6 +100,8 @@
 
 [**10 - Course**](https://app.datacamp.com/learn/courses/introduction-to-numpy)
 
+[**10 - Slides**](https://github.com/NouraAlgohary/Data-Scientist-with-Python/tree/main/10%20-%20Introduction%20to%20Numpy/Slides)
+
 [**10 - Assignments**](https://github.com/NouraAlgohary/Data-Scientist-with-Python/tree/main/10%20-%20Introduction%20to%20Numpy)
 
 ## 11 - Python Data Science Toolbox (Part 1)
