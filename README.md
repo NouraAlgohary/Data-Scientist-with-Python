@@ -109,7 +109,7 @@
 2. Default arguments, variable-length arguments and scope
 3. Lambda functions and error-handling
 
-[**11 - Course**]https://app.datacamp.com/learn/courses/python-data-science-toolbox-part-1)
+[**11 - Course**](https://app.datacamp.com/learn/courses/python-data-science-toolbox-part-1)
 
 ## 12 - The Android App Market on Google Play
 
