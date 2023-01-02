@@ -1,0 +1,9 @@
+# Split monthly_sales into quarterly data
+q1_sales, q2_sales, q3_sales, q4_sales = np.split(monthly_sales, 4)
+
+# Print q1_sales
+print(q1_sales)
+
+# Stack the four quarterly sales arrays
+quarterly_sales = np.stack([q1_sales, q2_sales, q3_sales, q4_sales])
+print(quarterly_sales)
