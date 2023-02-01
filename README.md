@@ -111,6 +111,8 @@
 
 [**11 - Course**](https://app.datacamp.com/learn/courses/python-data-science-toolbox-part-1)
 
+[**11 - Assignments**](https://github.com/NouraAlgohary/Data-Scientist-with-Python/tree/main/11%20-%20%20Python%20Data%20Science%20Toolbox%20(Part%201))
+
 ## 12 - The Android App Market on Google Play
 
 [**12 - About the project**](https://app.datacamp.com/learn/projects/android-app-market/guided/Python)
