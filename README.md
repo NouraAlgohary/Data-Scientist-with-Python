@@ -117,6 +117,8 @@
 
 [**12 - About the project**](https://app.datacamp.com/learn/projects/android-app-market/guided/Python)
 
+[**Project notebook**](https://app.datacamp.com/workspace/w/41b189a8-074a-4add-90f7-a9ef363c6d99)
+
 ## 13 - Python Data Science Toolbox (Part 2)
 1. Using iterators in PythonLand
 2. List comprehensions and generators
