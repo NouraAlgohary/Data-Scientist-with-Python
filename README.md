@@ -126,6 +126,8 @@
 
 [**13 - Course**](https://app.datacamp.com/learn/courses/python-data-science-toolbox-part-2)
 
+[**13 - Assignments**](https://github.com/NouraAlgohary/Data-Scientist-with-Python/tree/main/13%20-%20Python%20Data%20Science%20Toolbox%20(Part%202))
+
 ## 14 - Intermediate Data Visualization with Seaborn
 1. Seaborn Introduction
 2. Customizing Seaborn Plots
