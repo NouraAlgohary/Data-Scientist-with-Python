@@ -138,3 +138,20 @@
 
 ![C14](https://user-images.githubusercontent.com/103903785/199074660-dcd8968a-9640-45ee-bb57-7c4347355062.png)
 
+## 15 - Data Communication Concepts
+1. Storytelling with Data
+2. Preparing to communicate the data
+3. Structuring written reports
+4. Building compelling oral presentations
+
+[**15 - Course**](canva.com/linkedin-banners/templates/)
+
+
+## 18 - Introduction to Importing Data in Python
+1. Introduction and flat files
+2. Introduction to Importing Data in Python
+3. Working with relational databases in Python
+
+[**18 - Course**](https://app.datacamp.com/learn/courses/introduction-to-importing-data-in-python)
+[**18 - Assignments**](https://github.com/NouraAlgohary/Data-Scientist-with-Python/tree/main/18%20-%20Introduction%20to%20Importing%20Data%20in%20Python)
+
